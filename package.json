@@ -1,0 +1,25 @@
+{
+  "name": "graphqlapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smaifetov/graphQLApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smaifetov/graphQLApp/issues"
+  },
+  "homepage": "https://github.com/smaifetov/graphQLApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1",
+    "lodash": "^4.17.21"
+  }
+}
